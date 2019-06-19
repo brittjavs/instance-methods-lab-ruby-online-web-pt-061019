@@ -3,7 +3,7 @@ def bark
   puts "Woof!"
 end
 
-def spit
+def sit
  puts "The Dog is sitting"
 end
 end
